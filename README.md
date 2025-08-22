@@ -66,15 +66,6 @@ Currently using **JSONPlaceholder** for testing:
 
 * * * * *
 
-📸 Screenshots
---------------
-
-### User List Display
-
-*(Add screenshot of your app here after running it)*
-
-* * * * *
-
 ✅ Example Output
 ----------------
 
