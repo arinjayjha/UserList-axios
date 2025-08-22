@@ -1,12 +1,39 @@
-# React + Vite
+# 📋 User List with Axios  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Objective  
+Practice working with **API integration using Axios** in React.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Task  
+- Fetch a list of users from an API.  
+- Display the users’ **names** and **emails** in a styled list.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Requirements  
+- Use **`useEffect`** to fetch data when the component loads.  
+- Use **`useState`** to store and render user data.  
+- Show `"Loading..."` text until the data is fetched.  
+
+---
+
+## ⭐ Bonus Features  
+- Add a **"Refresh"** button to re-fetch the data on demand.  
+- Handle **errors** gracefully if the API fails.  
+
+---
+
+## 🚀 Tech Stack  
+- **React** (Vite)  
+- **Axios** for API calls  
+- **CSS** for styling  
+
+---
+
+## 📂 Project Setup  
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/react-userlist-axios.git
+   cd react-userlist-axios
