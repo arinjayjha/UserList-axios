@@ -31,9 +31,62 @@ Practice working with **API integration using Axios** in React.
 
 ---
 
-## 📂 Project Setup  
+📂 Project Setup
+----------------
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-userlist-axios.git
-   cd react-userlist-axios
+1.  Clone the repository:
+
+    `git clone https://github.com/your-username/react-userlist-axios.git
+    cd react-userlist-axios`
+
+2.  Install dependencies:
+
+    `npm install`
+
+3.  Run the project:
+
+    `npm run dev`
+
+4.  Open in browser:
+
+    `http://localhost:5173/`
+
+* * * * *
+
+🔗 API Used
+-----------
+
+Currently using **JSONPlaceholder** for testing:
+
+`https://jsonplaceholder.typicode.com/users`
+
+👉 Replace with your real backend when available:
+
+`http://internal-api/users`
+
+* * * * *
+
+📸 Screenshots
+--------------
+
+### User List Display
+
+*(Add screenshot of your app here after running it)*
+
+* * * * *
+
+✅ Example Output
+----------------
+
+-   Shows `"Loading..."` while fetching data.
+
+-   Displays user `name` + `email` in a styled list.
+
+-   Provides a **Refresh** button to reload data.
+
+* * * * *
+
+✨ Author
+--------
+
+👨‍💻 Arinjay Jha
